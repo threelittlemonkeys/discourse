@@ -10,4 +10,6 @@ Eunchung Noh, Yeonsoo Lee, YeonWoo Kim, Do-Gil Lee. 2016. [Building an RST-tagge
 
 Manfred Stede, Maite Taboada. 2017. [Annotation Guidelines for Rhetorical Structure.](https://github.com/threelittlemonkeys/discourse-analysis/blob/master/references/stede_et_al_2017.pdf) University of Potsdam and Simon Fraser University. http://www.sfu.ca/~mtaboada/docs/research/RST_Annotation_Guidelines.pdf.
 
+Yizhong Wang, Sujian Li, Jingfeng Yang. 2018. [Toward Fast and Accurate Neural Discourse Segmentation.](https://github.com/threelittlemonkeys/discourse-analysis/blob/master/references/wang_et_al_2018.pdf) In EMNLP.
+
 Nan Yu, Meishan Zhang, Guohong Fu. 2018. [Transition-based Neural RST Parsing with Implicit Syntax Features.](https://github.com/threelittlemonkeys/discourse-analysis/blob/master/references/yu_et_al_2018.pdf) In COLING.
