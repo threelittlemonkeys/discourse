@@ -1,4 +1,4 @@
-# Discourse Analysis
+# Discourse
 
 ## References
 
