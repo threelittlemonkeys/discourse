@@ -4,6 +4,8 @@
 
 Scott A. Crossley, Laura K. Allen, Kristopher Kyle & Danielle S. McNamara. 2014. [Analyzing Discourse Processing Using a Simple Natural Language Processing Tool.](https://github.com/threelittlemonkeys/discourse/blob/master/references/crossley_et_al_2014.pdf) Discourse Processes 51:511-534.
 
+Mathias Kraus, Stefan Feuerriegel. 2018. [Sentiment analysis based on rhetorical structure theory: Learning deep neural networks from discourse trees.](https://github.com/threelittlemonkeys/discourse/blob/master/references/kraus_et_al_2018.pdf) arXiv:1704.05228.
+
 Qi Li, Tianshi Li, Baobao Chang. 2016. [Discourse Parsing with Attention-based Hierarchical Neural Networks.](https://github.com/threelittlemonkeys/discourse/blob/master/references/li_et_al_2016.pdf) In EMNLP.
 
 William C. Mann, Sandra A. Thompson. 1988. [Rhetorical Structure Theory: Toward a functional theory of text organizaion.](https://github.com/threelittlemonkeys/discourse/blob/master/references/mann_et_al_1988.pdf) Text 8(3):243-281.
