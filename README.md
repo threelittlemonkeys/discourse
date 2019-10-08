@@ -12,6 +12,12 @@ Qi Li, Tianshi Li, Baobao Chang. 2016. [Discourse Parsing with Attention-based H
 
 William C. Mann, Sandra A. Thompson. 1988. [Rhetorical Structure Theory: Toward a functional theory of text organizaion.](https://github.com/threelittlemonkeys/discourse/blob/master/references/mann_et_al_1988.pdf) Text 8(3):243-281.
 
+Daniel Marcu. 2000. [The rhetorical parsing of unrestricted texts: a surface-based approach.](The Theory and Practice of Discourse Parsing and Summarization.](https://github.com/threelittlemonkeys/discourse/blob/master/references/marcu_2000a.pdf) Computational Linguistics 26(3):395-448.
+
+Daniel Marcu. 2000. [The Theory and Practice of Discourse Parsing and Summarization.](https://github.com/threelittlemonkeys/discourse/blob/master/references/marcu_2000b.pdf) The MIT Press.
+
+Daniel Marcu. 2002. [An Unsupervised Approach to Recognizing Discourse Relations.](https://github.com/threelittlemonkeys/discourse/blob/master/references/marcu_2002.pdf) In ACL.
+
 Eunchung Noh, Yeonsoo Lee, YeonWoo Kim, Do-Gil Lee. 2016. [Building an RST-tagged Corpus and its Classification Scheme for Korean News Texts.](https://github.com/threelittlemonkeys/discourse/blob/master/references/noh_et_al_2016.pdf) In Proceedings of the 28th Annual Conference on Human and Cognitive Language Technology (HCLT).
 
 Lianhui Qin, Zhisong Zhang, Hai Zhao. 2016. [Shallow Discourse Parsing Using Convolutional Neural Network.](https://github.com/threelittlemonkeys/discourse/blob/master/references/qin_et_al_2016.pdf) In ACL.
